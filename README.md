@@ -89,5 +89,5 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 **TIMING DIGRAMS FOR FLIP FLOPS**
 ![Screenshot 2024-12-03 131520](https://github.com/user-attachments/assets/8e3c3817-b934-473c-81dd-f836c172352f)
 
-**RESULTS**
+**RESULTS**    
 Thus the program to implement SR flipflop using verilog and validatio their functionality using their functional tables has been verified sucessfully.
